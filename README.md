@@ -1,2 +1,4 @@
 # Personality-Quiz
 An interactive MATLAB game that allows users to input answers to a list of prompts about their personality. The game asks 33 questions about personality, formatted on a 20 point scale with two opposite personality traits on either side with one end of the scale corresponding to -10.0 and the other end corresponding to 10.0 (ex: playful -10.0 or serious 10.0). The user fills an array with the user's responses using the prompt function and compares it with the data from an online personality quiz containing the personas of over 800 characters from TV and media. The program will output for you a "match" or "best-fit" character, the character with the closest personality to you, from the algorithm in the program. It also will output the mean difference of that character's personality indicators from your answers. 
+
+Data came from Open-Source Psychometrics Project's online "Which Character" personality quiz. Data set from @amberthomas on data.world
